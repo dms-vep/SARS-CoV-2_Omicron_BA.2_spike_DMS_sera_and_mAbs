@@ -1,7 +1,7 @@
-# Deep mutational scanning of SARS-CoV-2 Omicron BA.2 spike using a barcoded lentiviral platform
+# Deep mutational scanning of SARS-CoV-2 Omicron BA.2 spike for sera and mAb escape mapping
 Study by Bernadeta Dadonaite and Jesse Bloom.
 
-For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.2_spike_DMS/](https://dms-vep.github.io/SARS-CoV-2_Omicron_BA.2_spike_DMS/).
+For documentation of the analysis, see [https://github.com/dms-vep/SARS-CoV-2_Omicron_BA.2_spike_DMS_sera_and_mAbs/](https://github.com/dms-vep/SARS-CoV-2_Omicron_BA.2_spike_DMS_sera_and_mAbs/).
 
 ## Organization of this repo
 
